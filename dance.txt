@@ -1,1 +1,5 @@
 It is a rainbow dance.
+Step left
+Step right
+Jump up
+and turn around
